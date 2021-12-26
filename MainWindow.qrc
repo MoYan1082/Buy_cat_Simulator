@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/back.svg</file>
+        <file>icons/search.svg</file>
+        <file>icons/clear.svg</file>
+        <file>icons/menu.svg</file>
+        <file>icons/MainIcon.jpg</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/#dahuang-1.jpg</file>
+        <file>img/#dahuang-2.jpg</file>
+        <file>img/#huahua-1.jpg</file>
+        <file>img/#huahua-2.jpg</file>
+        <file>img/#liangqian-1.jpg</file>
+        <file>img/#liangqian-2.jpg</file>
+        <file>img/#naiyou-1.jpg</file>
+        <file>img/#naiyou-2.jpg</file>
+        <file>img/#wushi-1.jpg</file>
+        <file>img/#wushi-2.jpg</file>
+        <file>img/dahuang.jpg</file>
+        <file>img/huahua.jpg</file>
+        <file>img/liangqian.jpg</file>
+        <file>img/naiyou.jpg</file>
+        <file>img/wushi.jpg</file>
+        <file>img/#dahuang-3.jpg</file>
+        <file>img/#huahua-3.jpg</file>
+        <file>img/#liangqian-3.jpg</file>
+        <file>img/#naiyou-3.jpg</file>
+        <file>img/#wushi-3.jpg</file>
+    </qresource>
+</RCC>
