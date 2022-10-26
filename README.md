@@ -26,9 +26,8 @@ Search bar:
 
 <img width="50%" alt="Search" src="./Search.jpg">
 
-Video：
+[Video](./演示视频.mp4)
 
-<video src="演示视频.mp4" controls="controls" width="500" height="300"></video>
 
 ## Development environment
 
