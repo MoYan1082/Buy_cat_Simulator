@@ -1,5 +1,12 @@
 # Buy_cat_Simulator
 
+
+
+https://user-images.githubusercontent.com/61499018/205452481-aa01aa0c-283b-4f95-aeec-3565ec4e4df0.mp4
+
+
+
+
 ## Introduction
 这是一个用Qt6制作的购买猫猫的模拟器（有着很无聊的功能）。我写这个项目的目的是为了学习一些美化Qt界面的小技巧，所以重心没有放在完善功能上。
 
